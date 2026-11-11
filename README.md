@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Hungary, covering official tourism portals, rail networks, thermal baths, regional guides, and remote work resources.
 
+Hungary is a historic Central European destination centered around the Danube River valley, renowned for its thermal baths, majestic architecture, and vibrant cultural traditions. This list is intended for cultural travelers, thermal spa visitors, architectural explorers, and history enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
